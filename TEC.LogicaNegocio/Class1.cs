@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace TEC.LogicaNegocio
 {
-    class Class1
+    public class Class1
     {
+        public string Nombre { get; set; }
     }
 }
