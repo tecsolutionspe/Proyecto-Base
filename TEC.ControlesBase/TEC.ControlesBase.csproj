@@ -68,6 +68,12 @@
       <DependentUpon>frm_base_lcunyas.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucBoton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ucBoton.Designer.cs">
+      <DependentUpon>ucBoton.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmBase.resx">
@@ -75,6 +81,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmBase_jdurand.resx">
       <DependentUpon>frmBase_jdurand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_base_lcunyas.resx">
+      <DependentUpon>frm_base_lcunyas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBoton.resx">
+      <DependentUpon>ucBoton.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
