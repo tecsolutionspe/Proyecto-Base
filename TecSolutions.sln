@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.ControlesBase", "TEC.Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.Servicios", "TEC.Servicios\TEC.Servicios.csproj", "{95F9C822-D086-4C9B-8FE1-65360AA9C179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.Logging", "TEC.Logging\TEC.Logging.csproj", "{551001F7-0935-4752-B6BF-5F20A1ED9108}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551001F7-0935-4752-B6BF-5F20A1ED9108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551001F7-0935-4752-B6BF-5F20A1ED9108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551001F7-0935-4752-B6BF-5F20A1ED9108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551001F7-0935-4752-B6BF-5F20A1ED9108}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
