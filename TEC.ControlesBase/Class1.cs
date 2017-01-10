@@ -8,5 +8,6 @@ namespace TEC.ControlesBase
 {
     public class Class1
     {
+        //MemberAccessException
     }
 }
