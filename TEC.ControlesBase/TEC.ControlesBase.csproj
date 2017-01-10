@@ -49,6 +49,12 @@
     <Compile Include="frmBase.Designer.cs">
       <DependentUpon>frmBase.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBase_rchachi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBase_rchachi.Designer.cs">
+      <DependentUpon>frmBase_rchachi.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmBase_jdurand.cs">
       <SubType>Form</SubType>
     </Compile>
