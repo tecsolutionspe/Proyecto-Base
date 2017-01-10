@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.Login", "TEC.Login\TEC.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.ControlesBase", "TEC.ControlesBase\TEC.ControlesBase.csproj", "{763C60F2-5DA5-4EAA-953C-D0639508B77D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC.Servicios", "TEC.Servicios\TEC.Servicios.csproj", "{95F9C822-D086-4C9B-8FE1-65360AA9C179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{763C60F2-5DA5-4EAA-953C-D0639508B77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{763C60F2-5DA5-4EAA-953C-D0639508B77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{763C60F2-5DA5-4EAA-953C-D0639508B77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F9C822-D086-4C9B-8FE1-65360AA9C179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
