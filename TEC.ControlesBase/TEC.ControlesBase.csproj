@@ -49,11 +49,20 @@
     <Compile Include="frmBase.Designer.cs">
       <DependentUpon>frmBase.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBase_jdurand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBase_jdurand.Designer.cs">
+      <DependentUpon>frmBase_jdurand.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmBase.resx">
       <DependentUpon>frmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBase_jdurand.resx">
+      <DependentUpon>frmBase_jdurand.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
